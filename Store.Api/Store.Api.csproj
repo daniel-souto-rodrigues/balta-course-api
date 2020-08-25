@@ -3,6 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Elmah.Io.AspNetCore" Version="3.10.122" />
     <PackageReference Include="Microsoft.AspnetCore" Version="2.2.0" />
     <PackageReference Include="FluentValidator" Version="2.0.2" />
     <PackageReference Include="Microsoft.AspnetCore.ResponseCompression" Version="2.0.1" />
